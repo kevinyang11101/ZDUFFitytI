@@ -1,0 +1,2 @@
+# ZDUFFitytI
+本系统是一款基于Springboot和Vue的超市管理系统，实现前后端分离。主要用途是提高超市运营效率，核心功能包括商品管理、库存监控、销售数据统计等。系统采用MySQL数据库，Java为开发语言，前端使用Vue和Element-UI，后端集成了Springboot和MyBatisPuls技术。简洁专业的界面设计，旨在解决超市在日常管理中面临的各项问题，助力商家智能化管理。
